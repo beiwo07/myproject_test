@@ -9,3 +9,13 @@ editor_options:
 ---
 
 Welcome to Bei Wang's research website.
+
+* [Teeth growth analysis](teeth.html)
+
+Programming challenge: 
+
+* [Check out Angela's page](https://kkanga01.github.io/myproject/)
+* [Check out Alex's page](https://amhoover.github.io/myproject/)
+* [Check out Rio's page](https://rsalazar2.github.io/myproject/)
+
+
