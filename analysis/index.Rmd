@@ -14,8 +14,11 @@ Welcome to Bei Wang's research website.
 
 Programming challenge: 
 
-* [Check out Angela's page](https://kkanga01.github.io/myproject/)
-* [Check out Alex's page](https://amhoover.github.io/myproject/)
-* [Check out Rio's page](https://rsalazar2.github.io/myproject/)
+* [Angela's page](https://kkanga01.github.io/myproject/)
+* [Alex's page](https://amhoover.github.io/myproject/)
+* [Rio's page](https://rsalazar2.github.io/myproject/)
+* [Dan's page](https://sn0wscape.github.io/qBio6_reproducibility_session/)
+* [Daniela's page](https://dani-ol-vel.github.io/myproject/)
+* [Chao's page](https://daiuc.github.io/workflowr_project)
 
 
